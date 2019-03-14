@@ -6,10 +6,6 @@
 <% end %><br>
 
 <div>
-  <%= link_to "Friends List", friends_path %>
-</div><br>
-
-<div>
   <% if @error %>
     <p><%= @error %></p>
   <% elsif @venues %>
@@ -19,10 +15,14 @@
         <%= venue["name"] %><br>
         <%= venue["location"]["address"] %><br>
         Checkins: <%= venue["stats"]["checkinsCount"] %>
-      </li>
+        <%= form_tag '/tips' do %>
+          <%= hidden_field_tag :venue_id, venue["id"] %>
+          Add tip: <%= text_field_tag :tip %><%= submit_tag "Add Tip" %>
+        <% end %>
+      </li><br>
     <% end %>
     </ul>
   <% end %>
 </div>
-<br>
+
 

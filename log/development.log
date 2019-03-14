@@ -1452,3 +1452,642 @@ Processing by SearchesController#foursquare as HTML
   Parameters: {"utf8"=>"✓", "authenticity_token"=>"ON2oMtdXi7vlnWLP210O+Lr91RMYXMjgHaN9ZMqd+ZVul9QtRYWdubVOZDNjHvgUvq1Huik23wASW5zeKZ15tA==", "zipcode"=>"60622", "commit"=>"Search!"}
   Rendered searches/search.html.erb within layouts/application (1.3ms)
 Completed 200 OK in 315ms (Views: 18.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 11:31:31 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"ON2oMtdXi7vlnWLP210O+Lr91RMYXMjgHaN9ZMqd+ZVul9QtRYWdubVOZDNjHvgUvq1Huik23wASW5zeKZ15tA==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (1.8ms)
+Completed 200 OK in 318ms (Views: 25.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-03-14 12:05:13 -0500
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 31ms (Views: 30.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-03-14 12:05:23 -0500
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 43ms (Views: 41.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-03-14 12:05:30 -0500
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 23ms (Views: 22.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 12:05:35 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"89etjDlWE9+4MYZleOtAnlt2Bilq608b27DQeotjifelndGTq4QF3ejigJnAqLZyXyaUgFuBWPvUSDHAaGMJ1g==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 402ms (Views: 24.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 12:05:57 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"89etjDlWE9+4MYZleOtAnlt2Bilq608b27DQeotjifelndGTq4QF3ejigJnAqLZyXyaUgFuBWPvUSDHAaGMJ1g==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 303ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 12:06:28 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"89etjDlWE9+4MYZleOtAnlt2Bilq608b27DQeotjifelndGTq4QF3ejigJnAqLZyXyaUgFuBWPvUSDHAaGMJ1g==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 318ms (Views: 23.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 12:06:34 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"89etjDlWE9+4MYZleOtAnlt2Bilq608b27DQeotjifelndGTq4QF3ejigJnAqLZyXyaUgFuBWPvUSDHAaGMJ1g==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (7.8ms)
+Completed 200 OK in 337ms (Views: 22.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 12:06:41 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"89etjDlWE9+4MYZleOtAnlt2Bilq608b27DQeotjifelndGTq4QF3ejigJnAqLZyXyaUgFuBWPvUSDHAaGMJ1g==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 282ms (Views: 19.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 12:06:56 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"89etjDlWE9+4MYZleOtAnlt2Bilq608b27DQeotjifelndGTq4QF3ejigJnAqLZyXyaUgFuBWPvUSDHAaGMJ1g==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (5.9ms)
+Completed 200 OK in 302ms (Views: 21.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 13:00:36 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"89etjDlWE9+4MYZleOtAnlt2Bilq608b27DQeotjifelndGTq4QF3ejigJnAqLZyXyaUgFuBWPvUSDHAaGMJ1g==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 326ms (Views: 32.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/tips" for ::1 at 2019-03-14 13:00:49 -0500
+Processing by TipsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"eMX1/F89bQ7b69DzTsQUlHP3WoP9HRXF/vm+QfCj6Lguj4njze97DIs41g/2h+J4d6fIKsx3AiXxAV/7E6NomQ==", "venue_id"=>"4b70bcb1f964a520462c2de3", "tip"=>"great coffee!!!!", "commit"=>"Add Tip"}
+Completed 500 Internal Server Error in 284ms (ActiveRecord: 0.0ms)
+
+Faraday::SSLError (SSL_connect returned=1 errno=0 state=SSLv2/v3 read server hello A: tlsv1 unrecognized name):
+  app/controllers/tips_controller.rb:12:in `create'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (85.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (74.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (166.9ms)
+
+
+Started GET "/search" for ::1 at 2019-03-14 13:01:18 -0500
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 34ms (Views: 33.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 13:01:21 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"YcgxY7/wcXMZRZs26GCgUnvpNzjAZKlD7U2Ypj1zPO83gk18LSJncUmWncpQI1a+f7mlkfEOvqPitXkc3nO8zg==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 297ms (Views: 25.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/tips" for ::1 at 2019-03-14 13:01:24 -0500
+Processing by TipsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"cBJbXvqwaglQa/MFFqHXeECzoW/58eoOwt6ynkLpmZsmWCdBaGJ8CwC49fmu4iGUROMzxsib/e7NJlMkoekZug==", "venue_id"=>"4b70bcb1f964a520462c2de3", "tip"=>"great coffee!!!!", "commit"=>"Add Tip"}
+Redirected to http://localhost:3000/tips
+Completed 302 Found in 679ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:01:24 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 137ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (83.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (75.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (164.5ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:02:19 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 172ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (11.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (5.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (101.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (79.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (180.9ms)
+
+
+Started GET "/search" for ::1 at 2019-03-14 13:02:27 -0500
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 31ms (Views: 29.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 13:02:30 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"23U1jurTtLHKpuIxYYE2+syQS/poPgtfRfiDttP0M2+NP0mReAGis5p15M3ZwsAWyMDZU1lUHL9KAGIMMPSzTg==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 299ms (Views: 26.1ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/tips" for ::1 at 2019-03-14 13:02:32 -0500
+Processing by TipsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"cYCfZ97LREsf+7xx2eALV6KJLkspwmHc4QpenVaz8McnyuN4TBlSSU8ouo1ho/27ptm84hiodjzu8r8ntbNw5g==", "venue_id"=>"4b70bcb1f964a520462c2de3", "tip"=>"great coffee!!!!", "commit"=>"Add Tip"}
+Redirected to http://localhost:3000/tips
+Completed 302 Found in 183ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:02:33 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 179ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (4.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (87.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (71.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (160.8ms)
+
+
+Started PUT "/__web_console/repl_sessions/04f21b996db911f0d14ffd98c8cbe6bd" for ::1 at 2019-03-14 13:02:39 -0500
+
+
+Started PUT "/__web_console/repl_sessions/04f21b996db911f0d14ffd98c8cbe6bd" for ::1 at 2019-03-14 13:02:53 -0500
+
+
+Started PUT "/__web_console/repl_sessions/04f21b996db911f0d14ffd98c8cbe6bd" for ::1 at 2019-03-14 13:03:21 -0500
+
+
+Started PUT "/__web_console/repl_sessions/04f21b996db911f0d14ffd98c8cbe6bd" for ::1 at 2019-03-14 13:05:08 -0500
+
+
+Started PUT "/__web_console/repl_sessions/04f21b996db911f0d14ffd98c8cbe6bd" for ::1 at 2019-03-14 13:05:16 -0500
+
+
+Started PUT "/__web_console/repl_sessions/04f21b996db911f0d14ffd98c8cbe6bd" for ::1 at 2019-03-14 13:23:14 -0500
+
+
+Started GET "/" for ::1 at 2019-03-14 13:25:03 -0500
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 58ms (Views: 56.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/search" for ::1 at 2019-03-14 13:25:08 -0500
+Processing by SearchesController#foursquare as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"87CPCe7JQRUGjQ4OT2dmuAKzKc1se4vKhfrYLKGZOqal+vMWfBtXF1ZeCPL3JJBUBuO7ZF0RnCqKAjmWQpm6hw==", "zipcode"=>"60622", "commit"=>"Search!"}
+  Rendered searches/search.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 326ms (Views: 25.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/tips" for ::1 at 2019-03-14 13:25:19 -0500
+Processing by TipsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Hhn/IJTMGFZAtjG5mAtd3zLvUxfl4/FFJAsIJoyf7LxIU4M/Bh4OVBBlN0UgSKszNr/BvtSJ5qUr8+mcb59snQ==", "venue_id"=>"4b70bcb1f964a520462c2de3", "tip"=>"great coffee!!!!", "commit"=>"Add Tip"}
+Redirected to http://localhost:3000/tips
+Completed 302 Found in 525ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:25:20 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 161ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (3.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (100.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (87.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (196.9ms)
+
+
+Started PUT "/__web_console/repl_sessions/dd75213dee841d9c7216ee72fbd1513f" for ::1 at 2019-03-14 13:26:01 -0500
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:26:35 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 195ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (5.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (10.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.1ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (154.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (2.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (107.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (241.2ms)
+
+
+Started PUT "/__web_console/repl_sessions/8b371ae768b99bfa936bc234cf9a672f" for ::1 at 2019-03-14 13:26:40 -0500
+
+
+Started GET "/index" for ::1 at 2019-03-14 13:27:24 -0500
+
+ActionController::RoutingError (No route matches [GET] "/index"):
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (1.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (155.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (86.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (194.7ms)
+
+
+Started GET "/tips/index" for ::1 at 2019-03-14 13:27:28 -0500
+
+ActionController::RoutingError (No route matches [GET] "/tips/index"):
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (164.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (83.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (200.3ms)
+
+
+Started GET "/tip/index" for ::1 at 2019-03-14 13:27:38 -0500
+
+ActionController::RoutingError (No route matches [GET] "/tip/index"):
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (171.1ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (86.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (204.9ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:27:54 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 1413ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (8.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (108.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (83.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (186.7ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:28:50 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 262ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (12.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (186.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (3.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (2.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (141.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (339.1ms)
+
+
+Started PUT "/__web_console/repl_sessions/fd45b1778691fc5a7871ee6707da8027" for ::1 at 2019-03-14 13:28:53 -0500
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:29:19 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 177ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (4.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (139.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (112.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (2.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (253.1ms)
+
+
+Started PUT "/__web_console/repl_sessions/04dcc18476d35a4956abe1939221e74f" for ::1 at 2019-03-14 13:29:23 -0500
+
+
+Started PUT "/__web_console/repl_sessions/04dcc18476d35a4956abe1939221e74f" for ::1 at 2019-03-14 13:29:59 -0500
+
+
+Started PUT "/__web_console/repl_sessions/04dcc18476d35a4956abe1939221e74f" for ::1 at 2019-03-14 13:30:17 -0500
+
+
+Started GET "/index" for ::1 at 2019-03-14 13:30:49 -0500
+
+ActionController::RoutingError (No route matches [GET] "/index"):
+  actionpack (4.2.5) lib/action_dispatch/middleware/debug_exceptions.rb:21:in `call'
+  web-console (2.3.0) lib/web_console/middleware.rb:28:in `block in call'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `catch'
+  web-console (2.3.0) lib/web_console/middleware.rb:18:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.5) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.5) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.5) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.4) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.4) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.5) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.5) lib/action_dispatch/middleware/static.rb:116:in `call'
+  rack (1.6.4) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.5) lib/rails/engine.rb:518:in `call'
+  railties (4.2.5) lib/rails/application.rb:165:in `call'
+  rack (1.6.4) lib/rack/lock.rb:17:in `call'
+  rack (1.6.4) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.4) lib/rack/handler/webrick.rb:88:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:140:in `service'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/httpserver.rb:96:in `run'
+  /Users/akshaydhingra/.rvm/rubies/ruby-2.3.3/lib/ruby/2.3.0/webrick/server.rb:296:in `block in start_thread'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_route.html.erb (1.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/routes/_table.html.erb (2.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (156.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (14.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (102.1ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (260.0ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:30:51 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 184ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (7.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (112.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.8ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (143.9ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.4ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (296.6ms)
+
+
+Started PUT "/__web_console/repl_sessions/e563a80438b2c7e1ae057e9fc0fb65db" for ::1 at 2019-03-14 13:31:16 -0500
+
+
+Started PUT "/__web_console/repl_sessions/e563a80438b2c7e1ae057e9fc0fb65db" for ::1 at 2019-03-14 13:31:21 -0500
+
+
+Started PUT "/__web_console/repl_sessions/e563a80438b2c7e1ae057e9fc0fb65db" for ::1 at 2019-03-14 13:31:31 -0500
+
+
+Started PUT "/__web_console/repl_sessions/e563a80438b2c7e1ae057e9fc0fb65db" for ::1 at 2019-03-14 13:31:44 -0500
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:32:12 -0500
+Processing by TipsController#index as HTML
+  Rendered tips/index.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 328ms (Views: 25.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:33:07 -0500
+Processing by TipsController#index as HTML
+Completed 500 Internal Server Error in 183ms (ActiveRecord: 0.0ms)
+
+NoMethodError (undefined method `[]' for nil:NilClass):
+  app/controllers/tips_controller.rb:8:in `index'
+
+
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_source.erb (6.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/actionpack-4.2.5/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (125.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_markup.html.erb (1.0ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_inner_console_markup.html.erb within layouts/inlined_string (0.5ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/_prompt_box_markup.html.erb within layouts/inlined_string (0.7ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/style.css.erb within layouts/inlined_string (0.3ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/console.js.erb within layouts/javascript (101.2ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/main.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/error_page.js.erb within layouts/javascript (0.6ms)
+  Rendered /Users/akshaydhingra/.rvm/gems/ruby-2.3.3/gems/web-console-2.3.0/lib/web_console/templates/index.html.erb (234.8ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:38:20 -0500
+Processing by TipsController#index as HTML
+  Rendered tips/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 331ms (Views: 31.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:38:47 -0500
+Processing by TipsController#index as HTML
+  Rendered tips/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 117385ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/tips" for ::1 at 2019-03-14 13:40:51 -0500
+Processing by TipsController#index as HTML
+  Rendered tips/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 289ms (Views: 22.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-03-14 13:40:58 -0500
+Processing by SearchesController#search as HTML
+  Rendered searches/search.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 47ms (Views: 45.0ms | ActiveRecord: 0.0ms)
